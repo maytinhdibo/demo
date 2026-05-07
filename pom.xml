@@ -36,7 +36,7 @@
         <repository>
             <id>github</id>
             <name>GitHub TobseF Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/maytinhdibo/HelloMaven</url>
+            <url>https://maven.pkg.github.com/maytinhdibo/demo</url>
         </repository>
     </distributionManagement>
 
